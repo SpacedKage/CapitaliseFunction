@@ -1,0 +1,11 @@
+input, textarea {
+    background-color: #000000;
+  }
+  
+input, select, textarea{
+    color: #ff0000;
+}
+
+h1 {
+    color: rgb(17, 0, 255);
+}
